@@ -35,5 +35,6 @@ O "Ex03IntervaloParImpar", o usuário entrara com 2 números (com o segundo send
 O "Ex04DivisaoControlada", o usuário entrara com 1 divisor e 1 dividendo, o programa irá apresentar o resto da divisão dos números selecionador, porém, com 2 condições, se o segundo número for menor que o primeiro o programa irá ignorar e se o resto (resultado) der 0 o programa irá finalizar.
 
 
-- Calculadora interativa 
+- Calculadora interativa
+  
 A "Calculadora Interativa" foi feita para calcular seus "problemas", oferece as respostas de soma, subtração, multiplicação, divisão, potência e raiz quadrada.
